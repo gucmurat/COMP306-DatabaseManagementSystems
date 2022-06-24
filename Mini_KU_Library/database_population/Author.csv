@@ -1,0 +1,715 @@
+book_ID,authorName
+1,J.K. Rowling/Mary GrandPre
+2,J.K. Rowling/Mary GrandPre
+3,J.K. Rowling
+4,J.K. Rowling/Mary GrandPre
+5,J.K. Rowling/Mary GrandPre
+6,W. Frederick Zimmerman
+7,J.K. Rowling
+8,Douglas Adams
+9,Douglas Adams
+10,Douglas Adams
+11,Douglas Adams/Stephen Fry
+12,Douglas Adams
+13,Bill Bryson
+14,Bill Bryson
+15,Bill Bryson
+16,Bill Bryson
+17,Bill Bryson
+18,Bill Bryson
+19,Bill Bryson
+20,Bill Bryson
+21,Bill Bryson
+22,J.R.R. Tolkien
+23,J.R.R. Tolkien
+24,J.R.R. Tolkien
+25,J.R.R. Tolkien/Alan  Lee
+26,Chris   Smith/Christopher  Lee/Richard Taylor
+27,Jude Fisher
+28,Dave Thomas/David Heinemeier Hansson/Leon Breedt/Mike Clark/Thomas  Fuchs/Andreas  Schwarz
+29,Gary Paulsen
+30,Donna Ickes/Edward Sciranko/Keith Vasconcelles
+31,Gary Paulsen
+32,Molly Hatchet
+33,Dale Peck
+34,Angela Knight/Sahara Kelly/Judy Mays/Marteeka Karland/Kate Douglas/Shelby Morgen/Lacey Savage/Kate Hill/Willa Okati
+35,Delia Sherman
+36,Patricia A. McKillip
+37,Zilpha Keatley Snyder
+38,Kate Horsley
+39,Philippa Carr
+40,Edward P. Jones
+41,Edward P. Jones/Kevin R. Free
+42,Edward P. Jones
+43,Satyajit Das
+44,Mark Smylie
+45,John McPhee/William Howarth
+46,John McPhee
+47,John McPhee
+48,John McPhee
+49,John McPhee
+50,John McPhee
+51,John McPhee
+52,John McPhee
+53,John McPhee
+54,Wendy Wasserstein
+55,Wendy Wasserstein
+56,Heidi Hayes Jacobs
+57,Heidi Boyd
+58,Heidi Baker/Rolland Baker
+59,Heidi Hayes Jacobs
+60,Johanna Spyri/Beverly Cleary/Angelo  Rinaldi
+61,Heidi Hayes Jacobs
+62,Rolland Baker/Heidi Baker
+63,Heidi Murkoff/Sharon Mazel/Arlene Eisenberg/Sandee Hathaway/Mark D. Widome
+64,Heidi Fleiss/Libby Keatinge
+65,Heidi Boyd
+66,Frank Herbert
+67,Frank Herbert
+68,Frank Herbert
+69,Brian Herbert
+70,Frank Herbert
+71,Frank Herbert/Brian Herbert/Kevin J. Anderson
+72,Frank Herbert
+73,Gary Russell
+74,Bryce Courtenay
+75,Bryce Courtenay
+76,John C. Maxwell/Stephen R. Graves/Thomas G. Addington
+77,Dave Lakhani
+78,Louis E. Catron
+79,Adam Ginsberg
+80,Marsha Collier
+81,Chris Malta/Lisa Suttora
+82,Marsha Collier
+83,Julia Wilkinson
+84,Marsha Collier
+85,Marsha Collier
+86,Lucas Carlson/Leonard Richardson
+87,Ruby Ann Boxcar
+88,Ruby Ann Boxcar
+89,Rob Orsini
+90,Leo Tolstoy/Richard Pevear/Larissa Volokhonsky
+91,Leo Tolstoy/David Magarshack/Priscilla Meyer
+92,Leo Tolstoy/Richard Pevear/Larissa Volokhonsky/John Bayley
+93,Marianne Sturman/Leo Tolstoy
+94,Leo Tolstoy/Amy Mandelker/Constance Garnett
+95,Leo Tolstoy/Louise Maude/Aylmer Maude
+96,Leo Tolstoy/Constance Garnett/Amy Mandelker
+97,Gloria Goldreich
+98,Anthony Thorlby
+99,Mulk Raj Anand/E.M. Forster
+100,John Banville
+101,Eliot Ness/Oscar Fraley
+102,Narendra Jadhav
+103,V.T. Rajshekar/Y.N. Kly
+104,Vasant Moon/Gail Omvedt/Eleanor Zelliot
+105,Barry R. Cournoyer
+106,John Carratello/Patty Carratello/Theresa Wright
+107,George Smoot/Keay Davidson
+108,Madeleine L'Engle
+109,Tara MacCarthy
+110,Madeleine L'Engle
+111,Cynthia Harrod-Eagles
+112,Charles Todd
+113,Ewan McGregor/Charley Boorman/Robert Uhlig
+114,Daniel Abraham
+115,Charles Willeford/James Lee Burke
+116,Charles Willeford/Lawrence Block
+117,Charles Willeford/Elmore Leonard
+118,Charles Willeford
+119,Tom Wolfe
+120,Edward Lear/Laura Huliska-Beith/Edward Mendelson
+121,Quentin Blake
+122,Henry Miller/Thomas H. Moore
+123,Henry Miller
+124,Henry Miller/Jiri Nil
+125,Henry Miller
+126,Henry Miller
+127,Henry Miller
+128,Henry Miller
+129,Henry James/Patricia Crick
+130,Henry James/Gabriel Brownstein/Mary Cregan
+131,Marguerite Duras
+132,Marguerite Duras/Barbara Bray
+133,Marguerite Duras/Richard Seever
+134,Kahlil Gibran/Suheil Bushrui/Salma H. Al-Kuzbari
+135,Jean Gibran/Kahlil Gibran
+136,Kahlil Gibran/John Walbridge/Robin Waterfield
+137,Kahlil Gibran
+138,Kahlil Gibran/Anthony Rizcallah Ferris
+139,Kahlil Gibran
+140,Robert Louis Stevenson
+141,Robert Louis Stevenson/Scott McKowen
+142,Robert Louis Stevenson
+143,Robert Louis Stevenson/N.C. Wyeth/Timothy Meis
+144,Robert Louis Stevenson/Milo Winter
+145,Deidre S. Laiken/A.J. McAllister/Robert Louis Stevenson
+146,Ralph Ginzburg
+147,Gabriel Garcia Marquez
+148,Dr. Seuss
+149,Debbie Raleigh
+150,Kevin Henkes
+151,Patrick Süskind
+152,Robert A. Heinlein
+153,Robert A. Heinlein
+154,Robert A. Heinlein
+155,Robert A. Heinlein
+156,Robert A. Heinlein
+157,Douglas Adams
+158,Douglas Adams
+159,Nick  Webb
+160,Terry Jones
+161,Douglas Adams/Christopher Cerf
+162,Susan Nanus/Norton Juster
+163,Harry G. Frankfurt
+164,Nick Flynn
+165,Garry Wills
+166,Abraham Lincoln/Michael McCurdy
+167,Don DeLillo
+168,Don DeLillo
+169,Don DeLillo
+170,Don DeLillo
+171,Don DeLillo
+172,Don DeLillo
+173,Don DeLillo
+174,Thomas Pynchon
+175,Thomas Pynchon
+176,Thomas Pynchon
+177,Thomas Pynchon
+178,Thomas Pynchon/Christophe Claro/Brice Matthieussent
+179,Thomas Pynchon
+180,Thomas Pynchon
+181,Thomas Pynchon
+182,Richard Farina/Thomas Pynchon
+183,Joan Didion
+184,Joan Didion
+185,Joan Didion
+186,Joan Didion
+187,Joan Didion
+188,Joan Didion
+189,Joan Didion/John Leonard
+190,Joan Didion/David Thomson
+191,Paul Auster/Art Spiegelman/Luc Sante
+192,Paul Auster
+193,Paul Auster
+194,Paul Auster
+195,Peter Moon/Preston B. Nichols/Nina Helms
+196,Paul Auster
+197,Paul Auster
+198,Paul Auster
+199,Paul Auster
+200,Paul Auster
+201,Paul Auster
+202,Paul Auster
+203,Jared Diamond
+204,Stephen Leeb/Glen C. Strathy
+205,Joseph A. Tainter
+206,Robert D. Putnam
+207,Philip K. Howard
+208,Joy Harjo/Gloria Bird/Beth Cuthand/Valerie Martinez/Patricia Blanco
+209,Nikola Tesla
+210,Marc J.  Seifer/William H. Terbo
+211,Carol Dommermuth-Costa
+212,Nikola Tesla/David Hatcher Childress
+213,Julie Elizabeth Leto/Leslie Kelly/Kimberly Raye
+214,Dave Thomas/Chad Fowler/Andy Hunt
+215,Maureen Kelly/CliffsNotes/William Golding
+216,William Golding
+217,Victor Davis Hanson
+218,Ephraim Sevela/Antonina W. Bouis
+219,Alice Sebold
+220,Alice Sebold
+221,Sharyn McCrumb
+222,Dave Shea/Molly E. Holzschlag
+223,Elizabeth Castro
+224,Michael Ochs/Patrick Javault/Ulrike Wasel
+225,Chuck Klosterman
+226,Chuck Klosterman
+227,Jane Feather
+228,Robert M. Pirsig
+229,Kevin O'Malley/Carol Heyer/Scott Goto
+230,Ronald L. DiSanto/Thomas J. Steele
+231,John Harold Haynes
+232,Catharine M. Fishel/Bill Gardner
+233,Leo Tolstoy/Hugh McLean
+234,Leo Tolstoy/Henry Gifford/Aylmer Maude/Louise Maude
+235,Leo Tolstoy/Constance Garnett
+236,Ayn Rand/Leonard Peikoff
+237,Ayn Rand
+238,Ayn Rand
+239,Ayn Rand/Nathaniel Branden
+240,Ayn Rand
+241,Ayn Rand/Leonard Peikoff
+242,Ayn Rand/Nathaniel Branden/Alan Greenspan/Robert Hessen
+243,Ayn Rand/Michael S. Berliner/Leonard Peikoff
+244,J.J. Isler/Peter Isler
+245,Colin  Wells
+246,Billy Collins
+247,Christopher Caswell
+248,Kevin Trudeau
+249,Bernard Malamud/Kevin Baker
+250,Anne Tyler
+251,Gary Colombo/Bonnie Lisle
+252,Thomas E. Skidmore/Peter H. Smith
+253,Philip Roth
+254,Jon   Stewart
+255,Gabriel Garcia Marquez/Gregory Rabassa/J.S. Bernstein
+256,Gabriel Garcia Marquez
+257,Gabriel Garcia Marquez
+258,Gabriel Garcia Marquez
+259,Gabriel Garcia Marquez/Edith Grossman
+260,Gabriel Garcia Marquez
+261,Brian Greene
+262,Upasika Kee Nanayon/Thanissaro Bhikkhu
+263,Rob Humphreys/Beth Chaplin/Rebecca Morrill
+264,Lonely Planet/Sarah Johnstone/Steve Fallon
+265,Lonely Planet/Sarah Johnstone/Tom Masters
+266,Lonely Planet/Mark Honan
+267,H.G. Bissinger
+268,Neal Stephenson
+269,Neal Stephenson
+270,Neal Stephenson
+271,Neal Stephenson
+272,Neal Stephenson/J. Frederick George
+273,Neal Stephenson
+274,Neal Stephenson/Pedro Jorge Romero
+275,Neal Stephenson/George F. Jewsbury/Stephen  Bury
+276,Neal Stephenson
+277,Neal Stephenson/Guy Abadia
+278,Dan Harrington/Bill Robertie
+279,Dan Harrington/Bill Robertie
+280,Donald A. Norman
+281,J.K. Rowling/Mary GrandPre
+282,J.K. Rowling/Mary GrandPre
+283,J.K. Rowling
+284,J.K. Rowling/Mary GrandPre
+285,J.K. Rowling/Mary GrandPre
+286,W. Frederick Zimmerman
+287,J.K. Rowling
+288,Douglas Adams
+289,Douglas Adams
+290,Douglas Adams
+291,Douglas Adams/Stephen Fry
+292,Douglas Adams
+293,Bill Bryson
+294,Bill Bryson
+295,Bill Bryson
+296,Bill Bryson
+297,Bill Bryson
+298,Bill Bryson
+299,Bill Bryson
+300,Bill Bryson
+301,Bill Bryson
+302,J.R.R. Tolkien
+303,J.R.R. Tolkien
+304,J.R.R. Tolkien
+305,J.R.R. Tolkien/Alan  Lee
+306,Chris   Smith/Christopher  Lee/Richard Taylor
+307,Jude Fisher
+308,Dave Thomas/David Heinemeier Hansson/Leon Breedt/Mike Clark/Thomas  Fuchs/Andreas  Schwarz
+309,Gary Paulsen
+310,Donna Ickes/Edward Sciranko/Keith Vasconcelles
+311,Gary Paulsen
+312,Molly Hatchet
+313,Dale Peck
+314,Angela Knight/Sahara Kelly/Judy Mays/Marteeka Karland/Kate Douglas/Shelby Morgen/Lacey Savage/Kate Hill/Willa Okati
+315,Delia Sherman
+316,Patricia A. McKillip
+317,Zilpha Keatley Snyder
+318,Kate Horsley
+319,Philippa Carr
+320,Edward P. Jones
+321,Edward P. Jones/Kevin R. Free
+322,Edward P. Jones
+323,Satyajit Das
+324,Mark Smylie
+325,John McPhee/William Howarth
+326,John McPhee
+327,John McPhee
+328,John McPhee
+329,John McPhee
+330,John McPhee
+331,John McPhee
+332,John McPhee
+333,John McPhee
+334,Wendy Wasserstein
+335,Wendy Wasserstein
+336,Heidi Hayes Jacobs
+337,Heidi Boyd
+338,Heidi Baker/Rolland Baker
+339,Heidi Hayes Jacobs
+340,Johanna Spyri/Beverly Cleary/Angelo  Rinaldi
+341,Heidi Hayes Jacobs
+342,Rolland Baker/Heidi Baker
+343,Heidi Murkoff/Sharon Mazel/Arlene Eisenberg/Sandee Hathaway/Mark D. Widome
+344,Heidi Fleiss/Libby Keatinge
+345,Heidi Boyd
+346,Frank Herbert
+347,Frank Herbert
+348,Frank Herbert
+349,Brian Herbert
+350,Frank Herbert
+351,Frank Herbert/Brian Herbert/Kevin J. Anderson
+352,Frank Herbert
+353,Gary Russell
+354,Bryce Courtenay
+355,Bryce Courtenay
+356,John C. Maxwell/Stephen R. Graves/Thomas G. Addington
+357,Dave Lakhani
+358,Louis E. Catron
+359,Adam Ginsberg
+360,Marsha Collier
+361,Chris Malta/Lisa Suttora
+362,Marsha Collier
+363,Julia Wilkinson
+364,Marsha Collier
+365,Marsha Collier
+366,Lucas Carlson/Leonard Richardson
+367,Ruby Ann Boxcar
+368,Ruby Ann Boxcar
+369,Rob Orsini
+370,Leo Tolstoy/Richard Pevear/Larissa Volokhonsky
+371,Leo Tolstoy/David Magarshack/Priscilla Meyer
+372,Leo Tolstoy/Richard Pevear/Larissa Volokhonsky/John Bayley
+373,Marianne Sturman/Leo Tolstoy
+374,Leo Tolstoy/Amy Mandelker/Constance Garnett
+375,Leo Tolstoy/Louise Maude/Aylmer Maude
+376,Leo Tolstoy/Constance Garnett/Amy Mandelker
+377,Gloria Goldreich
+378,Anthony Thorlby
+379,Mulk Raj Anand/E.M. Forster
+380,John Banville
+381,Eliot Ness/Oscar Fraley
+382,Narendra Jadhav
+383,V.T. Rajshekar/Y.N. Kly
+384,Vasant Moon/Gail Omvedt/Eleanor Zelliot
+385,Barry R. Cournoyer
+386,John Carratello/Patty Carratello/Theresa Wright
+387,George Smoot/Keay Davidson
+388,Madeleine L'Engle
+389,Tara MacCarthy
+390,Madeleine L'Engle
+391,Cynthia Harrod-Eagles
+392,Charles Todd
+393,Ewan McGregor/Charley Boorman/Robert Uhlig
+394,Daniel Abraham
+395,Charles Willeford/James Lee Burke
+396,Charles Willeford/Lawrence Block
+397,Charles Willeford/Elmore Leonard
+398,Charles Willeford
+399,Tom Wolfe
+400,Edward Lear/Laura Huliska-Beith/Edward Mendelson
+401,Quentin Blake
+402,Henry Miller/Thomas H. Moore
+403,Henry Miller
+404,Henry Miller/Jiri Nil
+405,Henry Miller
+406,Henry Miller
+407,Henry Miller
+408,Henry Miller
+409,Henry James/Patricia Crick
+410,Henry James/Gabriel Brownstein/Mary Cregan
+411,Marguerite Duras
+412,Marguerite Duras/Barbara Bray
+413,Marguerite Duras/Richard Seever
+414,Kahlil Gibran/Suheil Bushrui/Salma H. Al-Kuzbari
+415,Jean Gibran/Kahlil Gibran
+416,Kahlil Gibran/John Walbridge/Robin Waterfield
+417,Kahlil Gibran
+418,Kahlil Gibran/Anthony Rizcallah Ferris
+419,Kahlil Gibran
+420,Robert Louis Stevenson
+421,Robert Louis Stevenson/Scott McKowen
+422,Robert Louis Stevenson
+423,Robert Louis Stevenson/N.C. Wyeth/Timothy Meis
+424,Robert Louis Stevenson/Milo Winter
+425,Deidre S. Laiken/A.J. McAllister/Robert Louis Stevenson
+426,Ralph Ginzburg
+427,Gabriel Garcia Marquez
+428,Dr. Seuss
+429,Debbie Raleigh
+430,Kevin Henkes
+431,Patrick Süskind
+432,Robert A. Heinlein
+433,Robert A. Heinlein
+434,Robert A. Heinlein
+435,Robert A. Heinlein
+436,Robert A. Heinlein
+437,Douglas Adams
+438,Douglas Adams
+439,Nick  Webb
+440,Terry Jones
+441,Douglas Adams/Christopher Cerf
+442,Susan Nanus/Norton Juster
+443,Harry G. Frankfurt
+444,Nick Flynn
+445,Garry Wills
+446,Abraham Lincoln/Michael McCurdy
+447,Don DeLillo
+448,Don DeLillo
+449,Don DeLillo
+450,Don DeLillo
+451,Don DeLillo
+452,Don DeLillo
+453,Don DeLillo
+454,Thomas Pynchon
+455,Thomas Pynchon
+456,Thomas Pynchon
+457,Thomas Pynchon
+458,Thomas Pynchon/Christophe Claro/Brice Matthieussent
+459,Thomas Pynchon
+460,Thomas Pynchon
+461,Thomas Pynchon
+462,Richard Farina/Thomas Pynchon
+463,Joan Didion
+464,Joan Didion
+465,Joan Didion
+466,Joan Didion
+467,Joan Didion
+468,Joan Didion
+469,Joan Didion/John Leonard
+470,Joan Didion/David Thomson
+471,Paul Auster/Art Spiegelman/Luc Sante
+472,Paul Auster
+473,Paul Auster
+474,Paul Auster
+475,Peter Moon/Preston B. Nichols/Nina Helms
+476,Paul Auster
+477,Paul Auster
+478,Paul Auster
+479,Paul Auster
+480,Paul Auster
+481,Paul Auster
+482,Paul Auster
+483,Jared Diamond
+484,Stephen Leeb/Glen C. Strathy
+485,Joseph A. Tainter
+486,Robert D. Putnam
+487,Philip K. Howard
+488,Joy Harjo/Gloria Bird/Beth Cuthand/Valerie Martinez/Patricia Blanco
+489,Nikola Tesla
+490,Marc J.  Seifer/William H. Terbo
+491,Carol Dommermuth-Costa
+492,Nikola Tesla/David Hatcher Childress
+493,Julie Elizabeth Leto/Leslie Kelly/Kimberly Raye
+494,Dave Thomas/Chad Fowler/Andy Hunt
+495,Maureen Kelly/CliffsNotes/William Golding
+496,William Golding
+497,Victor Davis Hanson
+498,Ephraim Sevela/Antonina W. Bouis
+499,Alice Sebold
+500,Alice Sebold
+501,Sharyn McCrumb
+502,Dave Shea/Molly E. Holzschlag
+503,Elizabeth Castro
+504,Michael Ochs/Patrick Javault/Ulrike Wasel
+505,Chuck Klosterman
+506,Chuck Klosterman
+507,Jane Feather
+508,Robert M. Pirsig
+509,Kevin O'Malley/Carol Heyer/Scott Goto
+510,Ronald L. DiSanto/Thomas J. Steele
+511,John Harold Haynes
+512,Catharine M. Fishel/Bill Gardner
+513,Leo Tolstoy/Hugh McLean
+514,Leo Tolstoy/Henry Gifford/Aylmer Maude/Louise Maude
+515,Leo Tolstoy/Constance Garnett
+516,Ayn Rand/Leonard Peikoff
+517,Ayn Rand
+518,Ayn Rand
+519,Ayn Rand/Nathaniel Branden
+520,Ayn Rand
+521,Ayn Rand/Leonard Peikoff
+522,Ayn Rand/Nathaniel Branden/Alan Greenspan/Robert Hessen
+523,Ayn Rand/Michael S. Berliner/Leonard Peikoff
+524,J.J. Isler/Peter Isler
+525,Colin  Wells
+526,Billy Collins
+527,Christopher Caswell
+528,Kevin Trudeau
+529,Bernard Malamud/Kevin Baker
+530,Anne Tyler
+531,Gary Colombo/Bonnie Lisle
+532,Thomas E. Skidmore/Peter H. Smith
+533,Philip Roth
+534,Jon   Stewart
+535,Gabriel Garcia Marquez/Gregory Rabassa/J.S. Bernstein
+536,Gabriel Garcia Marquez
+537,Gabriel Garcia Marquez
+538,Gabriel Garcia Marquez
+539,Gabriel Garcia Marquez/Edith Grossman
+540,Gabriel Garcia Marquez
+541,Brian Greene
+542,Upasika Kee Nanayon/Thanissaro Bhikkhu
+543,Rob Humphreys/Beth Chaplin/Rebecca Morrill
+544,Lonely Planet/Sarah Johnstone/Steve Fallon
+545,Lonely Planet/Sarah Johnstone/Tom Masters
+546,Lonely Planet/Mark Honan
+547,H.G. Bissinger
+548,Neal Stephenson
+549,Neal Stephenson
+550,Neal Stephenson
+551,Neal Stephenson
+552,Neal Stephenson/J. Frederick George
+553,Neal Stephenson
+554,Neal Stephenson/Pedro Jorge Romero
+555,Neal Stephenson/George F. Jewsbury/Stephen  Bury
+556,Neal Stephenson
+557,Neal Stephenson/Guy Abadia
+558,Dan Harrington/Bill Robertie
+559,Dan Harrington/Bill Robertie
+560,Donald A. Norman
+561,Philip K. Howard
+562,Joy Harjo/Gloria Bird/Beth Cuthand/Valerie Martinez/Patricia Blanco
+563,Nikola Tesla
+564,Marc J.  Seifer/William H. Terbo
+565,Carol Dommermuth-Costa
+566,Nikola Tesla/David Hatcher Childress
+567,Julie Elizabeth Leto/Leslie Kelly/Kimberly Raye
+568,Dave Thomas/Chad Fowler/Andy Hunt
+569,Maureen Kelly/CliffsNotes/William Golding
+570,William Golding
+571,Victor Davis Hanson
+572,Ephraim Sevela/Antonina W. Bouis
+573,Alice Sebold
+574,Alice Sebold
+575,Sharyn McCrumb
+576,Dave Shea/Molly E. Holzschlag
+577,Elizabeth Castro
+578,Michael Ochs/Patrick Javault/Ulrike Wasel
+579,Chuck Klosterman
+580,Chuck Klosterman
+581,Jane Feather
+582,Robert M. Pirsig
+583,Kevin O'Malley/Carol Heyer/Scott Goto
+584,Ronald L. DiSanto/Thomas J. Steele
+585,John Harold Haynes
+586,Billy Collins
+587,Christopher Caswell
+588,Kevin Trudeau
+589,Bernard Malamud/Kevin Baker
+590,Anne Tyler
+591,Gary Colombo/Bonnie Lisle
+592,Thomas E. Skidmore/Peter H. Smith
+593,Philip Roth
+594,Jon   Stewart
+595,Gabriel Garcia Marquez/Gregory Rabassa/J.S. Bernstein
+596,Gabriel Garcia Marquez
+597,Gabriel Garcia Marquez
+598,Gabriel Garcia Marquez
+599,Gabriel Garcia Marquez/Edith Grossman
+600,Gabriel Garcia Marquez
+601,Brian Greene
+602,Upasika Kee Nanayon/Thanissaro Bhikkhu
+603,Rob Humphreys/Beth Chaplin/Rebecca Morrill
+604,Lonely Planet/Sarah Johnstone/Steve Fallon
+605,Lonely Planet/Sarah Johnstone/Tom Masters
+606,Lonely Planet/Mark Honan
+607,H.G. Bissinger
+608,Neal Stephenson
+609,Neal Stephenson
+610,Neal Stephenson
+611,Neal Stephenson
+612,Neal Stephenson/J. Frederick George
+613,Neal Stephenson
+614,Neal Stephenson/Pedro Jorge Romero
+615,Neal Stephenson/George F. Jewsbury/Stephen  Bury
+616,Neal Stephenson
+617,Neal Stephenson/Guy Abadia
+618,Dan Harrington/Bill Robertie
+619,Dan Harrington/Bill Robertie
+620,Donald A. Norman
+621,J.K. Rowling/Mary GrandPre
+622,J.K. Rowling/Mary GrandPre
+623,J.K. Rowling
+624,J.K. Rowling/Mary GrandPre
+625,J.K. Rowling/Mary GrandPre
+626,W. Frederick Zimmerman
+627,J.K. Rowling
+628,Douglas Adams
+629,Douglas Adams
+630,Douglas Adams
+631,Douglas Adams/Stephen Fry
+632,Douglas Adams
+633,Bill Bryson
+634,Bill Bryson
+635,Bill Bryson
+636,Bill Bryson
+637,Bill Bryson
+638,Bill Bryson
+639,Bill Bryson
+640,Bill Bryson
+641,Bill Bryson
+642,J.R.R. Tolkien
+643,J.R.R. Tolkien
+644,J.R.R. Tolkien
+645,J.R.R. Tolkien/Alan  Lee
+646,Chris   Smith/Christopher  Lee/Richard Taylor
+647,Jude Fisher
+648,Dave Thomas/David Heinemeier Hansson/Leon Breedt/Mike Clark/Thomas  Fuchs/Andreas  Schwarz
+649,Gary Paulsen
+650,Donna Ickes/Edward Sciranko/Keith Vasconcelles
+651,Gary Paulsen
+652,Molly Hatchet
+653,Dale Peck
+654,Angela Knight/Sahara Kelly/Judy Mays/Marteeka Karland/Kate Douglas/Shelby Morgen/Lacey Savage/Kate Hill/Willa Okati
+655,Delia Sherman
+656,Patricia A. McKillip
+657,Zilpha Keatley Snyder
+658,Kate Horsley
+659,Philippa Carr
+660,Edward P. Jones
+661,Edward P. Jones/Kevin R. Free
+662,Edward P. Jones
+663,Satyajit Das
+664,Mark Smylie
+665,John McPhee/William Howarth
+666,John McPhee
+667,John McPhee
+668,John McPhee
+669,John McPhee
+670,John McPhee
+671,John McPhee
+672,John McPhee
+673,John McPhee
+674,Wendy Wasserstein
+675,Wendy Wasserstein
+676,Heidi Hayes Jacobs
+677,Heidi Boyd
+678,Heidi Baker/Rolland Baker
+679,Heidi Hayes Jacobs
+680,Johanna Spyri/Beverly Cleary/Angelo  Rinaldi
+681,Heidi Hayes Jacobs
+682,Rolland Baker/Heidi Baker
+683,Heidi Murkoff/Sharon Mazel/Arlene Eisenberg/Sandee Hathaway/Mark D. Widome
+684,Heidi Fleiss/Libby Keatinge
+685,Heidi Boyd
+686,Frank Herbert
+687,Frank Herbert
+688,Frank Herbert
+689,Brian Herbert
+690,Frank Herbert
+691,Frank Herbert/Brian Herbert/Kevin J. Anderson
+692,Frank Herbert
+693,Gary Russell
+694,Bryce Courtenay
+695,Bryce Courtenay
+696,John C. Maxwell/Stephen R. Graves/Thomas G. Addington
+697,Dave Lakhani
+698,Louis E. Catron
+699,Adam Ginsberg
+700,Marsha Collier
+701,Chris Malta/Lisa Suttora
+702,Marsha Collier
+703,Julia Wilkinson
+704,Marsha Collier
+705,Marsha Collier
+706,Lucas Carlson/Leonard Richardson
+707,Ruby Ann Boxcar
+708,Ruby Ann Boxcar
+709,Rob Orsini
+710,Leo Tolstoy/Richard Pevear/Larissa Volokhonsky
+711,Leo Tolstoy/David Magarshack/Priscilla Meyer
+712,Leo Tolstoy/Richard Pevear/Larissa Volokhonsky/John Bayley
+713,Marianne Sturman/Leo Tolstoy
+714,Leo Tolstoy/Amy Mandelker/Constance Garnett
